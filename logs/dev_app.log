@@ -1,0 +1,45 @@
+"2019-08-28 12:11:46,573 INFO  [restartedMain] com.stackroute.Application : Starting Application on bhawana-ThinkPad-T450 with PID 14460 (/home/bhawana/Desktop/RentedAuctionProject/SearchProductSpring/target/classes started by bhawana in /home/bhawana/Desktop/RentedAuctionProject/SearchProductSpring)
+""2019-08-28 12:11:46,602 INFO  [restartedMain] com.stackroute.Application : No active profile set, falling back to default profiles: default
+""2019-08-28 12:11:46,816 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2019-08-28 12:11:46,816 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2019-08-28 12:11:48,000 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-08-28 12:11:48,143 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 133ms. Found 1 repository interfaces.
+""2019-08-28 12:11:49,016 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+""2019-08-28 12:11:49,108 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+""2019-08-28 12:11:49,109 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.21]
+""2019-08-28 12:11:49,274 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+""2019-08-28 12:11:50,075 INFO  [restartedMain] org.mongodb.driver.cluster : Cluster created with settings {hosts=[localhost:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+""2019-08-28 12:11:50,076 INFO  [restartedMain] org.mongodb.driver.cluster : Adding discovered server localhost:27017 to client view of cluster
+""2019-08-28 12:11:50,300 INFO  [cluster-ClusterId{value='5d66222ed9f9a6387c292d86', description='null'}-localhost:27017] org.mongodb.driver.connection : Opened connection [connectionId{localValue:1, serverValue:1}] to localhost:27017
+""2019-08-28 12:11:50,312 INFO  [cluster-ClusterId{value='5d66222ed9f9a6387c292d86', description='null'}-localhost:27017] org.mongodb.driver.cluster : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 6, 3]}, minWireVersion=0, maxWireVersion=6, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=6111813}
+""2019-08-28 12:11:50,317 INFO  [cluster-ClusterId{value='5d66222ed9f9a6387c292d86', description='null'}-localhost:27017] org.mongodb.driver.cluster : Discovered cluster type of STANDALONE
+""2019-08-28 12:11:50,656 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : LiveReload server is running on port 35729
+""2019-08-28 12:11:50,943 INFO  [restartedMain] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+""2019-08-28 12:11:51,218 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+""2019-08-28 12:11:51,221 INFO  [restartedMain] com.stackroute.Application : Started Application in 5.929 seconds (JVM running for 6.949)
+""2019-08-28 12:12:06,373 INFO  [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-08-28 12:12:06,502 INFO  [http-nio-8080-exec-1] org.mongodb.driver.connection : Opened connection [connectionId{localValue:2, serverValue:2}] to localhost:27017
+""2019-08-28 12:50:12,377 INFO  [Thread-8] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+""2019-08-28 12:50:12,380 INFO  [Thread-8] org.mongodb.driver.connection : Closed connection [connectionId{localValue:2, serverValue:2}] to localhost:27017 because the pool has been closed.
+""2019-08-28 12:55:24,204 INFO  [restartedMain] com.stackroute.Application : Starting Application on bhawana-ThinkPad-T450 with PID 15905 (started by bhawana in /home/bhawana/Desktop/RentedAuctionProject/search microservice/SearchProductSpring)
+""2019-08-28 12:55:24,225 INFO  [restartedMain] com.stackroute.Application : No active profile set, falling back to default profiles: default
+""2019-08-28 12:55:24,400 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2019-08-28 12:55:24,401 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2019-08-28 12:55:25,782 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+""2019-08-28 12:55:25,893 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 103ms. Found 1 repository interfaces.
+""2019-08-28 12:55:26,879 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 8080 (http)
+""2019-08-28 12:55:26,923 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+""2019-08-28 12:55:26,923 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.21]
+""2019-08-28 12:55:27,073 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+""2019-08-28 12:55:27,531 INFO  [restartedMain] org.mongodb.driver.cluster : Cluster created with settings {hosts=[localhost:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+""2019-08-28 12:55:27,532 INFO  [restartedMain] org.mongodb.driver.cluster : Adding discovered server localhost:27017 to client view of cluster
+""2019-08-28 12:55:27,637 INFO  [cluster-ClusterId{value='5d662c674a06883e2196081a', description='null'}-localhost:27017] org.mongodb.driver.connection : Opened connection [connectionId{localValue:1, serverValue:3}] to localhost:27017
+""2019-08-28 12:55:27,668 INFO  [cluster-ClusterId{value='5d662c674a06883e2196081a', description='null'}-localhost:27017] org.mongodb.driver.cluster : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 6, 3]}, minWireVersion=0, maxWireVersion=6, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7666957}
+""2019-08-28 12:55:27,671 INFO  [cluster-ClusterId{value='5d662c674a06883e2196081a', description='null'}-localhost:27017] org.mongodb.driver.cluster : Discovered cluster type of STANDALONE
+""2019-08-28 12:55:28,015 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : LiveReload server is running on port 35729
+""2019-08-28 12:55:28,439 INFO  [restartedMain] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+""2019-08-28 12:55:28,865 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 8080 (http) with context path ''
+""2019-08-28 12:55:28,869 INFO  [restartedMain] com.stackroute.Application : Started Application in 5.801 seconds (JVM running for 6.966)
+""2019-08-28 12:58:23,926 INFO  [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2019-08-28 12:58:24,068 INFO  [http-nio-8080-exec-1] org.mongodb.driver.connection : Opened connection [connectionId{localValue:2, serverValue:4}] to localhost:27017
+"
